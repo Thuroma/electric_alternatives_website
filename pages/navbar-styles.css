@@ -22,6 +22,8 @@ li a {
 
 li a:hover {
     background-color: rgb(97, 158, 99);
+    text-decoration: none;
+    color: black;
 }
 
 li:last-child {
